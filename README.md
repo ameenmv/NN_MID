@@ -129,7 +129,7 @@
 
 ---
 
-## Lecture 10: Transformers Architecture
+## Lecture 6: Transformers Architecture
 
 ### 1. نظرة عامة لثورة الترانسفورمر
 * صممت لتدمير مشاكل الـ RNN في مهام الترجمة وإكمال الجمل Sequence-to-sequence.
