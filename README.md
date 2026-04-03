@@ -1,4 +1,4 @@
-# Comprehensive Neural Networks Revision (Detailed Version)
+# Comprehensive Neural Networks Revision
 
 ## Lecture 1: Introduction to Machine Learning & Deep Learning
 
